@@ -16,6 +16,7 @@ public void test1()
 	driver=new FirefoxDriver();
 	driver.get("http://www.facebook.com");
 	
+	
 }
 @Test
 public void test2()
